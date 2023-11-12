@@ -3,7 +3,7 @@ import './App.css';
 
 
 function App() {
-  const value = 'World';
+  
   return <>
   <title>Visión por computadora</title>
     <p>Utiliza este servicio para mejorar la usabilidad de tu sitio web, generamos textos descriptivos para tus imagenes atraves de Inteligencia Artificial</p>
